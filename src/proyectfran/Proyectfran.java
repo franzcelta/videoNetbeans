@@ -25,6 +25,6 @@ public class Proyectfran {
         
         System.out.println("Genial, " + nombre + ", tienes " + edad + " anios!"); 
         
-        
+        System.out.println("FIN DEL PROGRAMA");
     } 
 }
