@@ -29,5 +29,7 @@ public class Proyectfran {
         System.out.println("la resta de " + num1 + " y " + num2 + " es: " + resta);
         System.out.println("la multiplicacion de " + num1 + " y " + num2 + " es: " + multi);
         System.out.println("la division de " + num1 + " y " + num2 + " es: " + div);
+        System.out.println("FIN DEL PROGRAMA");
+        
     } 
 }
